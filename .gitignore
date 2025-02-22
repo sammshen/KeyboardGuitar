@@ -1,0 +1,4 @@
+guitar_venv/
+__pycache__/
+*.mid
+*.sf2
